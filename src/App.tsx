@@ -227,23 +227,23 @@ function App() {
                 {[
                   {
                     image: "https://i.imgur.com/UKXE0PN.png",
-                    name: "Trader Experiente",
+                    name: "Aluno Satisfeito",
                     result: "Resultado Comprovado"
                   },
                   {
                     image: "https://i.imgur.com/JVpUF1s.png",
                     name: "Aluno Satisfeito",
-                    result: "Operação Consistente"
+                    result: "Resultado Comprovado"
                   },
                   {
                     image: "https://i.imgur.com/UfHYVEK.png",
-                    name: "Trader Profissional",
-                    result: "Método Eficaz"
+                    name: "Aluno Satisfeito",
+                    result: "Resultado Comprovado"
                   },
                   {
                     image: "https://i.imgur.com/FkjxYGl.png",
-                    name: "Aluno Transformado",
-                    result: "Estratégia Eficiente"
+                    name: "Aluno Satisfeito",
+                    result: "Resultado Comprovado"
                   }
                 ].map((testimonial, index) => (
                   <div key={index} className="relative group">
@@ -277,11 +277,7 @@ function App() {
                 <div className="relative group">
                   <div className="absolute inset-0 bg-gradient-to-r from-[#2C8AD1]/20 to-blue-400/20 rounded-2xl blur-xl opacity-0 group-hover:opacity-100 transition-all duration-500"></div>
                   <div className="relative bg-gray-900/50 backdrop-blur-sm rounded-2xl border border-gray-700 hover:border-[#2C8AD1]/50 transition-all duration-500 overflow-hidden">
-                    <img 
-                      src="https://i.imgur.com/jGv2Wmj.png" 
-                      alt="Depoimentos dos Alunos"
-                      className="w-full h-auto object-cover"
-                    />
+                  
                   </div>
                 </div>
               </div>
