@@ -44,7 +44,7 @@ function App() {
               </h1>
 
               <p className="text-2xl md:text-3xl text-gray-300 mb-12 leading-relaxed font-light">
-                Transforme sua operação com o método que realmente funciona.
+                Transforme suas operações com o método que realmente funciona.
               </p>
 
               {/* Futuristic CTA Button */}
@@ -87,7 +87,7 @@ function App() {
               </div>
               
               <p className="text-2xl md:text-3xl text-gray-300 mt-8 mb-8 leading-relaxed font-light">
-                Do zero à execução prática para se torne um trader mais consistente e confiante com footprint chart.
+                Domine o gráfico de footprint e aumente em 80% a sua assertividade
               </p>
               
               {/* Purchase Button */}
@@ -182,7 +182,7 @@ function App() {
                   {
                     icon: <Shield className="w-8 h-8" />,
                     title: "Bônus 03 – Take Profit / Stop Loss",
-                    description: "Mapeie risco e alvo direto no gráfico."
+                    description: "Mapeie o risco e o alvo no gráfico."
                   },
                   {
                     icon: <MessageCircle className="w-8 h-8" />,
@@ -220,7 +220,7 @@ function App() {
                     O que nossos alunos estão dizendo
                   </span>
                 </h2>
-                <p className="text-xl text-gray-300">Resultados reais de quem já transformou sua operação</p>
+                <p className="text-xl text-gray-300">Resultados reais de quem já conseguiu resultados</p>
               </div>
               
               <div className="grid md:grid-cols-2 gap-8">
@@ -291,7 +291,7 @@ function App() {
                   <a href="https://pay.herospark.com/treinamento-em-footprint-chart-442003" target="_blank" rel="noopener noreferrer" className="relative inline-block bg-gradient-to-r from-green-500 to-green-600 hover:from-green-400 hover:to-green-500 text-white px-12 py-6 rounded-2xl font-bold text-xl transition-all duration-500 transform hover:scale-110 shadow-2xl border border-green-400/50">
                     <span className="flex items-center">
                       <Zap className="w-6 h-6 mr-3 animate-pulse" />
-                      QUERO OS MESMOS RESULTADOS
+                      QUERO ACESSO AGORA MESMO!
                     </span>
                   </a>
                 </div>
